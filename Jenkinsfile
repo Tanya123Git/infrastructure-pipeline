@@ -6,4 +6,3 @@ node('linux') {
                sh "env"
 	      }   
       }
-}
